@@ -1,5 +1,5 @@
 ***********************************
----#Distance Meter/HC-SR04 tester---
+#Distance Meter/HC-SR04 tester
 ***********************************
 ##this circuit is designed to mesure distance or test hc-sr04 ultrasonic distance sensor without the need of any microcontroller.
 
